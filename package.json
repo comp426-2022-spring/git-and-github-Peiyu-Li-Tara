@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/comp426-2022-spring/git-and-github-Peiyu-Li-Tara/issues"
   },
-  "homepage": "https://github.com/comp426-2022-spring/git-and-github-Peiyu-Li-Tara#readme"
+  "homepage": "https://github.com/comp426-2022-spring/git-and-github-Peiyu-Li-Tara#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.7"
+  }
 }
